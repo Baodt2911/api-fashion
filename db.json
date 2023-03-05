@@ -4727,12 +4727,12 @@
           "images": "https://sakurafashion.vn/upload/sanpham/large/4717-ao-hoodie-soc-ngang-o-tay-ao-4.jpg"
         },
         {
-          "id": 2,
+          "id": 1,
           "color": "Đỏ",
           "images": "https://sakurafashion.vn/upload/sanpham/large/4717-ao-hoodie-soc-ngang-o-tay-ao-2.jpg"
         },
         {
-          "id": 3,
+          "id": 2,
           "color": "Xám",
           "images": "https://sakurafashion.vn/upload/sanpham/large/4717-ao-hoodie-soc-ngang-o-tay-ao-3.jpg"
         }
@@ -4925,20 +4925,36 @@
     },
     {
       "id": 6,
-      "name": "Áo thun form rộng unisex ",
-      "category": "women",
-      "price": 99000,
+      "name": "Quần Jean dài nhỏ xẻ tà phong cách đường phố",
+      "price": 237000,
       "size": [
         {
           "id": 0,
-          "title": "Oversize"
+          "title": "S"
+        },
+        {
+          "id": 1,
+          "title": "M"
+        },
+        {
+          "id": 2,
+          "title": "L"
+        },
+        {
+          "id": 3,
+          "title": "XL"
         }
       ],
       "main": [
         {
           "id": 0,
-          "color": "Trắng",
-          "images": "https://cf.shopee.vn/file/b4c2244a4a6eaab14dc9cb001207d85a"
+          "color": "Xanh lam",
+          "images": "https://cf.shopee.vn/file/014a42056b1cc583c88ea64492ba3720"
+        },
+        {
+          "id": 1,
+          "color": "Alightblue",
+          "images": "https://cf.shopee.vn/file/b256161bf7fb74e4feb2a801d67c90c5"
         }
       ]
     },
