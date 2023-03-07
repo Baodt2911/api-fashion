@@ -5391,5 +5391,44 @@
         }
       ]
     }
+  ],
+  "favourite": [
+    {
+      "id": 0,
+      "name": "Cardigan",
+      "category": "women",
+      "price": 230000,
+      "size": [
+        {
+          "id": 0,
+          "title": "S"
+        },
+        {
+          "id": 1,
+          "title": "M"
+        },
+        {
+          "id": 2,
+          "title": "L"
+        }
+      ],
+      "main": [
+        {
+          "id": 0,
+          "color": "Trắng",
+          "images": "https://sakurafashion.vn/upload/sanpham/large/4717-ao-hoodie-soc-ngang-o-tay-ao-4.jpg"
+        },
+        {
+          "id": 1,
+          "color": "Đỏ",
+          "images": "https://sakurafashion.vn/upload/sanpham/large/4717-ao-hoodie-soc-ngang-o-tay-ao-2.jpg"
+        },
+        {
+          "id": 2,
+          "color": "Xám",
+          "images": "https://sakurafashion.vn/upload/sanpham/large/4717-ao-hoodie-soc-ngang-o-tay-ao-3.jpg"
+        }
+      ]
+    }
   ]
 }
