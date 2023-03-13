@@ -1,33 +1,18 @@
 {
   "products": [
     {
-      "id": 0,
+      "id": 952996,
       "name": "Áo sơ mi tay ngắn trơn",
       "type": "shirt",
       "category": "men",
       "status": "sale",
       "price": 150000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -48,33 +33,18 @@
       ]
     },
     {
-      "id": 1,
+      "id": 916900,
       "name": "Áo sơ mi nam trơn dài tay",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 139000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -95,33 +65,18 @@
       ]
     },
     {
-      "id": 2,
+      "id": 221987,
       "name": "Áo sơ mi vải có túi",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 229000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -137,33 +92,18 @@
       ]
     },
     {
-      "id": 3,
+      "id": 261527,
       "name": "Áo sơ mi nam trơn gấp hộp",
       "type": "shirt",
       "category": "men",
       "status": "sale",
       "price": 119000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -184,33 +124,18 @@
       ]
     },
     {
-      "id": 4,
+      "id": 334306,
       "name": "Áo sơ mi vải đũi cổ vest",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 230000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -231,33 +156,18 @@
       ]
     },
     {
-      "id": 5,
+      "id": 340366,
       "name": "Áo sơ mi tay dài nhung tăm",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 229000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -278,33 +188,18 @@
       ]
     },
     {
-      "id": 6,
+      "id": 792087,
       "name": "Áo sơ mi ngắn tay có túi vải",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -315,33 +210,18 @@
       ]
     },
     {
-      "id": 7,
+      "id": 559178,
       "name": "Áo sơ mi ngắn tay vải Linen",
       "type": "shirt",
       "category": "men",
       "status": "sale",
       "price": 219000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -362,33 +242,18 @@
       ]
     },
     {
-      "id": 8,
+      "id": 644064,
       "name": "Cuban shirt họa tiết",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 175000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -399,33 +264,18 @@
       ]
     },
     {
-      "id": 9,
+      "id": 411993,
       "name": "Áo sơ mi tay ngắn họa tiết gấu Teddy",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -436,33 +286,18 @@
       ]
     },
     {
-      "id": 10,
+      "id": 592925,
       "name": "Áo sơ mi tay ngắn in họa tiết cao cấp",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 189000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -473,33 +308,18 @@
       ]
     },
     {
-      "id": 11,
+      "id": 100967,
       "name": "Áo sơ mi nam hoạ tiết tay ngắn phối cổ vest",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -515,33 +335,18 @@
       ]
     },
     {
-      "id": 12,
+      "id": 906542,
       "name": "Áo sơ mi tay ngắn họa tiết phối cổ vest chất kate lụa nến",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -562,33 +367,18 @@
       ]
     },
     {
-      "id": 13,
+      "id": 612267,
       "name": "Áo sơ mi tay ngắn cổ vest tay ngắn phối hoạ tiết lá",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -604,33 +394,18 @@
       ]
     },
     {
-      "id": 14,
+      "id": 398268,
       "name": "Áo sơ mi tay ngắn họa tiết chất kate lụa mềm",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -651,33 +426,18 @@
       ]
     },
     {
-      "id": 15,
+      "id": 841643,
       "name": "Áo sơ mi tay ngắn cổ vest tay ngắn phối hoạ tiết cá",
       "type": "shirt",
       "category": "men",
       "status": "bestseller",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -693,33 +453,18 @@
       ]
     },
     {
-      "id": 16,
+      "id": 905788,
       "name": "Áo sơ mi họa tiết tay ngắn",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -735,33 +480,18 @@
       ]
     },
     {
-      "id": 17,
+      "id": 248540,
       "name": "Áo sơ mi họa tiết tay ngắn",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -777,33 +507,18 @@
       ]
     },
     {
-      "id": 18,
+      "id": 233241,
       "name": "Áo sơ mi tay ngắn họa tiết mèo",
       "type": "shirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -814,33 +529,18 @@
       ]
     },
     {
-      "id": 19,
+      "id": 469206,
       "name": "Áo sơ mi tay ngắn họa tiết mặt báo thời trang",
       "type": "shirt",
       "category": "men",
       "status": "bestseller",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -851,33 +551,18 @@
       ]
     },
     {
-      "id": 0,
+      "id": 235789,
       "name": "Áo thun polo tay ngắn sọc vai",
       "type": "polo",
       "category": "men",
       "status": "sale",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -898,33 +583,18 @@
       ]
     },
     {
-      "id": 1,
+      "id": 608308,
       "name": "Áo thun polo thể thao ",
       "type": "polo",
       "category": "men",
       "status": "",
       "price": 139000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -945,33 +615,18 @@
       ]
     },
     {
-      "id": 2,
+      "id": 632174,
       "name": "Áo thu polo nam in kiểu LADOS",
       "type": "polo",
       "category": "men",
       "status": "",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -987,33 +642,18 @@
       ]
     },
     {
-      "id": 3,
+      "id": 910285,
       "name": "Áo thun polo sọc dọc",
       "type": "polo",
       "category": "men",
       "status": "bestseller",
       "price": 169000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1029,33 +669,18 @@
       ]
     },
     {
-      "id": 4,
+      "id": 790956,
       "name": "Áo thun polo tay ngắn in chữ ",
       "type": "polo",
       "category": "men",
       "status": "",
       "price": 189000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1081,33 +706,18 @@
       ]
     },
     {
-      "id": 5,
+      "id": 624160,
       "name": "Áo thun polo nam thêu đầu hươu",
       "type": "polo",
       "category": "men",
       "status": "sale",
       "price": 169000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1128,33 +738,18 @@
       ]
     },
     {
-      "id": 6,
+      "id": 617848,
       "name": "Áo thun polo tay ngắn kẻ sọc in logo LADOS ",
       "type": "polo",
       "category": "men",
       "status": "bestseller",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1180,33 +775,18 @@
       ]
     },
     {
-      "id": 7,
+      "id": 668066,
       "name": "Áo thun polo thể thao",
       "type": "polo",
       "category": "men",
       "status": "",
       "price": 139000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1237,33 +817,18 @@
       ]
     },
     {
-      "id": 8,
+      "id": 735854,
       "name": "Áo thun cá sấu 4 chiều",
       "type": "polo",
       "category": "men",
       "status": "",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1289,33 +854,18 @@
       ]
     },
     {
-      "id": 9,
+      "id": 262623,
       "name": "Áo thun polo nam phối sọc",
       "type": "polo",
       "category": "men",
       "status": "",
       "price": 159000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1331,33 +881,18 @@
       ]
     },
     {
-      "id": 0,
+      "id": 825028,
       "name": "Áo thun nam thể thao",
       "type": "Tshirt",
       "category": "men",
       "status": "",
       "price": 99000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1378,33 +913,18 @@
       ]
     },
     {
-      "id": 1,
+      "id": 420654,
       "name": "Áo thun sọc cổ tròn",
       "type": "Tshirt",
       "category": "men",
       "status": "",
       "price": 89000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1415,33 +935,18 @@
       ]
     },
     {
-      "id": 2,
+      "id": 448928,
       "name": "Áo thun in gấu luckyboy cao cấp",
       "type": "Tshirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1462,33 +967,18 @@
       ]
     },
     {
-      "id": 3,
+      "id": 629531,
       "name": "Áo thun sọc cổ tròn trơn",
       "type": "Tshirt",
       "category": "men",
       "status": "",
       "price": 129000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1514,33 +1004,18 @@
       ]
     },
     {
-      "id": 4,
+      "id": 392965,
       "name": "Áo thun ba lỗ in chữ Tokyo",
       "type": "Tshirt",
       "category": "men",
       "status": "bestseller",
       "price": 129000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1561,33 +1036,18 @@
       ]
     },
     {
-      "id": 5,
+      "id": 808621,
       "name": "Áo thun in gấu money cao cấp",
       "type": "Tshirt",
       "category": "men",
       "status": "favourite",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1603,33 +1063,18 @@
       ]
     },
     {
-      "id": 6,
+      "id": 496640,
       "name": "Áo thun cổ tròn in chữ Surfing",
       "type": "Tshirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1655,33 +1100,18 @@
       ]
     },
     {
-      "id": 7,
+      "id": 874778,
       "name": "Áo thun in gấu cool cao cấp",
       "type": "Tshirt",
       "category": "men",
       "status": "favourite",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1697,33 +1127,18 @@
       ]
     },
     {
-      "id": 8,
+      "id": 862022,
       "name": "Áo thun cổ tròn in chữ Los Angeles ",
       "type": "Tshirt",
       "category": "men",
       "status": "bestseller",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1749,33 +1164,18 @@
       ]
     },
     {
-      "id": 9,
+      "id": 545967,
       "name": "Áo thun nam in chữ TOKYO",
       "type": "Tshirt",
       "category": "men",
       "status": "",
       "price": 179000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -1801,29 +1201,17 @@
       ]
     },
     {
-      "id": 0,
+      "id": 216148,
       "name": "Quần short thun nam thể thao",
       "type": "short",
       "category": "men",
       "status": "bestseller",
       "price": 129000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -1839,29 +1227,17 @@
       ]
     },
     {
-      "id": 1,
+      "id": 406912,
       "name": "Quần short nam thể thao",
       "type": "short",
       "category": "men",
       "status": "",
       "price": 139000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -1877,29 +1253,17 @@
       ]
     },
     {
-      "id": 2,
+      "id": 256622,
       "name": "Quần short nam",
       "type": "short",
       "category": "men",
       "status": "favourite",
       "price": 119000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -1920,29 +1284,17 @@
       ]
     },
     {
-      "id": 3,
+      "id": 253269,
       "name": "Quần Tây lửng nam thể thao ",
       "type": "short",
       "category": "men",
       "status": "favourite",
       "price": 199000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -1963,29 +1315,17 @@
       ]
     },
     {
-      "id": 4,
+      "id": 673306,
       "name": "Quần short dù thể thao 2 lớp",
       "type": "short",
       "category": "men",
       "status": "",
       "price": 139000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2006,29 +1346,17 @@
       ]
     },
     {
-      "id": 5,
+      "id": 472488,
       "name": "Quần short thun không túi",
       "type": "short",
       "category": "men",
       "status": "sale",
       "price": 45000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2039,29 +1367,17 @@
       ]
     },
     {
-      "id": 6,
+      "id": 267753,
       "name": "Quần kate nam họa tiết co giãn có túi",
       "type": "short",
       "category": "men",
       "status": "",
       "price": 79000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2082,29 +1398,17 @@
       ]
     },
     {
-      "id": 7,
+      "id": 672227,
       "name": "Quần short thun nam",
       "type": "short",
       "category": "men",
       "status": "",
       "price": 99000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2125,29 +1429,17 @@
       ]
     },
     {
-      "id": 8,
+      "id": 709437,
       "name": "Quần short kiểu Golf thêu chữ",
       "type": "short",
       "category": "men",
       "status": "",
       "price": 199000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2168,29 +1460,17 @@
       ]
     },
     {
-      "id": 9,
+      "id": 307598,
       "name": "Quần short thun nam sọc ngang",
       "type": "short",
       "category": "men",
       "status": "",
       "price": 89000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2206,29 +1486,17 @@
       ]
     },
     {
-      "id": 0,
+      "id": 649060,
       "name": "Quần dài Kaki nam chất vải đẹp",
       "type": "kaki",
       "category": "men",
       "status": "favourite",
       "price": 279000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2259,29 +1527,17 @@
       ]
     },
     {
-      "id": 1,
+      "id": 367005,
       "name": "Quần kaki slimfit trơn",
       "type": "kaki",
       "category": "men",
       "status": "favourite",
       "price": 425000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2302,29 +1558,17 @@
       ]
     },
     {
-      "id": 2,
+      "id": 314488,
       "name": "Quần kaki phối dây sọc",
       "type": "kaki",
       "category": "men",
       "status": "bestseller",
       "price": 345000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2345,29 +1589,17 @@
       ]
     },
     {
-      "id": 3,
+      "id": 438816,
       "name": "Quần kaki slimfit túi",
       "type": "kaki",
       "category": "men",
       "status": "",
       "price": 425000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2388,29 +1620,17 @@
       ]
     },
     {
-      "id": 4,
+      "id": 694492,
       "name": "Quần kaki slimfit túi trong",
       "type": "kaki",
       "category": "men",
       "status": "",
       "price": 445000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2431,29 +1651,17 @@
       ]
     },
     {
-      "id": 5,
+      "id": 641345,
       "name": "Quần kaki lưng thun regular-cropped",
       "type": "kaki",
       "category": "men",
       "status": "",
       "price": 425000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2474,29 +1682,17 @@
       ]
     },
     {
-      "id": 6,
+      "id": 441237,
       "name": "Quần kaki trơn slimfit rã tam giác",
       "type": "kaki",
       "category": "men",
       "status": "sale",
       "price": 385000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2517,29 +1713,17 @@
       ]
     },
     {
-      "id": 7,
+      "id": 929265,
       "name": "Quần kaki phối dây sọc",
       "type": "kaki",
       "category": "men",
       "status": "",
       "price": 345000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2560,29 +1744,17 @@
       ]
     },
     {
-      "id": 8,
+      "id": 895857,
       "name": "Quần kaki lưng thun",
       "type": "kaki",
       "category": "men",
       "status": "sale",
       "price": 375000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2608,29 +1780,17 @@
       ]
     },
     {
-      "id": 9,
+      "id": 680344,
       "name": "Quần kaki carrot",
       "type": "kaki",
       "category": "men",
       "status": "",
       "price": 385000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2646,29 +1806,17 @@
       ]
     },
     {
-      "id": 0,
+      "id": 699447,
       "name": "Quần jean nam cao cấp form đẹp,rách gối",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 315000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2684,29 +1832,17 @@
       ]
     },
     {
-      "id": 1,
+      "id": 508438,
       "name": "Quần jean nam cao cấp ",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 295000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2722,29 +1858,17 @@
       ]
     },
     {
-      "id": 2,
+      "id": 113602,
       "name": "Quần jean nam trơn cao cấp",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 325000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2760,29 +1884,17 @@
       ]
     },
     {
-      "id": 3,
+      "id": 932936,
       "name": "Quần Jean nam cao cấp form đẹp, chất dày dặn co giãn tốt",
       "type": "jean",
       "category": "men",
       "status": "favourite",
       "price": 315000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2798,29 +1910,17 @@
       ]
     },
     {
-      "id": 4,
+      "id": 913390,
       "name": "Quần Jean nam cao cấp form đẹp, chất dày dặn co giãn",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 315000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2841,29 +1941,17 @@
       ]
     },
     {
-      "id": 5,
+      "id": 824132,
       "name": "Quần jean slimfit faded",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 525000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2874,29 +1962,17 @@
       ]
     },
     {
-      "id": 6,
+      "id": 465442,
       "name": "Quần jean xước form slimfit",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 475000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2907,29 +1983,17 @@
       ]
     },
     {
-      "id": 7,
+      "id": 450238,
       "name": "Quần jean trơn",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 495000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2940,29 +2004,17 @@
       ]
     },
     {
-      "id": 8,
+      "id": 267445,
       "name": "Quần jean xanh regular túi thêu",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 525000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -2973,29 +2025,17 @@
       ]
     },
     {
-      "id": 9,
+      "id": 567176,
       "name": "Quần jean trơn form slimfit",
       "type": "jean",
       "category": "men",
       "status": "",
       "price": 475000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -3006,25 +2046,16 @@
       ]
     },
     {
-      "id": 0,
+      "id": 844416,
       "name": "Áo sơ mi cổ sen thêu hoa lá tay hơi phồng xinh xắn",
       "type": "short-shirt",
       "category": "women",
       "status": "sale",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3040,25 +2071,16 @@
       ]
     },
     {
-      "id": 1,
+      "id": 356748,
       "name": "Áo sơ mi cổ sen thêu lá dễ thương",
       "type": "short-shirt",
       "category": "women",
       "status": "favourite",
       "price": 230000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3069,25 +2091,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": 407567,
       "name": "Áo sơ mi nữ tay ngắn cột nơ",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3098,25 +2111,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 364391,
       "name": "Áo sơ mi nữ",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 265000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3137,25 +2141,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 383017,
       "name": "Áo sơ mi nữ đính cavat thêu hình chú mèo",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 270000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3166,25 +2161,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": 411477,
       "name": "Áo sơ mi tay ngắn thêu hình nhỏ",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 240000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3200,25 +2186,16 @@
       ]
     },
     {
-      "id": 6,
+      "id": 850097,
       "name": "Áo sơ mi nữ cổ búp bê ",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 245000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3229,25 +2206,16 @@
       ]
     },
     {
-      "id": 7,
+      "id": 104548,
       "name": "Áo sơ mi nữ ngắn tay có cavat thêu hình gấu",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 270000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3258,25 +2226,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": 650905,
       "name": "Áo sơ mi nữ cổ đính nơ",
       "type": "short-shirt",
       "category": "women",
       "status": "",
       "price": 280000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3292,25 +2251,16 @@
       ]
     },
     {
-      "id": 9,
+      "id": 867736,
       "name": "Áo sơ mi cổ bèo phong cách retro",
       "type": "short-shirt",
       "category": "women",
       "status": "bestseller",
       "price": 260000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3336,25 +2286,16 @@
       ]
     },
     {
-      "id": 0,
+      "id": 737756,
       "name": "Áo hoodie nữ hình chú gấu",
       "type": "hoodie",
       "category": "women",
       "status": "sale",
       "price": 360000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3370,25 +2311,16 @@
       ]
     },
     {
-      "id": 1,
+      "id": 782018,
       "name": "Áo hoodie nữ túi hình con vật ngộ nghĩnh",
       "type": "hoodie",
       "category": "women",
       "status": "",
       "price": 360000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3404,25 +2336,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": 279545,
       "name": "Áo hoodie nữ giả hai thêu hình chú gấu",
       "type": "hoodie",
       "category": "women",
       "status": "",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3438,25 +2361,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 174800,
       "name": "Áo hoodie con vật hoạt hình",
       "type": "hoodie",
       "category": "women",
       "status": "",
       "price": 335000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3477,25 +2391,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 736311,
       "name": "Áo hoodie sọc ngang ở tay áo",
       "type": "hoodie",
       "category": "women",
       "status": "",
       "price": 230000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3516,25 +2421,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": 925837,
       "name": "Áo hoodie Mori girl phong cách Nhật Bản",
       "type": "hoodie",
       "category": "women",
       "status": "favourite",
       "price": 320000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3555,25 +2451,16 @@
       ]
     },
     {
-      "id": 6,
+      "id": 355884,
       "name": "Áo hoodie in chữ Essentials",
       "type": "hoodie",
       "category": "women",
       "status": "bestseller",
       "price": 200000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3584,25 +2471,16 @@
       ]
     },
     {
-      "id": 7,
+      "id": 414479,
       "name": "Áo hoodie nỉ form rộng thêu mây",
       "type": "hoodie",
       "category": "women",
       "status": "",
       "price": 99000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3613,25 +2491,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": 926809,
       "name": "Áo hoodie khóa Zip",
       "type": "hoodie",
       "category": "women",
       "status": "bestseller",
       "price": 380000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3642,25 +2511,16 @@
       ]
     },
     {
-      "id": 9,
+      "id": 111131,
       "name": "Áo Hoodie Nữ TUVY Áo Hoodie Vải Nỉ Lót Bông Dày Dặn",
       "type": "hoodie",
       "category": "women",
       "status": "sale",
       "price": 255000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3681,18 +2541,13 @@
       ]
     },
     {
-      "id": 0,
+      "id": 849714,
       "name": "Áo thun cotton tay lỡ dáng rộng unisex",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 60000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Freesize <65kg"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Freesize <65kg" }],
       "main": [
         {
           "id": 0,
@@ -3707,18 +2562,13 @@
       ]
     },
     {
-      "id": 1,
+      "id": 832104,
       "name": "Áo thun tay lỡ form rộng cotton",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 73000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Oversize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Oversize" }],
       "main": [
         {
           "id": 0,
@@ -3728,18 +2578,13 @@
       ]
     },
     {
-      "id": 2,
+      "id": 133633,
       "name": "Áo thun tay lỡ The Band form rộng, áo phông nam nữ freesize",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 120000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Freesize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Freesize" }],
       "main": [
         {
           "id": 0,
@@ -3754,18 +2599,13 @@
       ]
     },
     {
-      "id": 3,
+      "id": 405693,
       "name": "Áo thun tổ ong logo chant Unisex",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 50000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Freesize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Freesize" }],
       "main": [
         {
           "id": 0,
@@ -3785,18 +2625,13 @@
       ]
     },
     {
-      "id": 4,
+      "id": 737963,
       "name": "Áo thun tay lỡ in chữ Studio dáng Basic",
       "type": "Tshirt",
       "category": "women",
       "status": "favourite",
       "price": 49000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Oversize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Oversize" }],
       "main": [
         {
           "id": 0,
@@ -3806,25 +2641,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": 243626,
       "name": "Áo thun form rộng phong cách Hàn Quốc",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 136000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3845,18 +2671,13 @@
       ]
     },
     {
-      "id": 6,
+      "id": 556061,
       "name": "Áo phông nữ hình ngộ nghĩnh",
       "type": "Tshirt",
       "category": "women",
       "status": "favourite",
       "price": 200000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Freesize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Freesize" }],
       "main": [
         {
           "id": 0,
@@ -3866,18 +2687,13 @@
       ]
     },
     {
-      "id": 7,
+      "id": 757159,
       "name": "Áo thun form rộng unisex ",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 99000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Oversize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Oversize" }],
       "main": [
         {
           "id": 0,
@@ -3887,25 +2703,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": 898668,
       "name": "Áo phông nữ Uniqlo",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 280000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3916,25 +2723,16 @@
       ]
     },
     {
-      "id": 9,
+      "id": 550070,
       "name": "Áo thun nữ Guess",
       "type": "Tshirt",
       "category": "women",
       "status": "",
       "price": 155000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3945,25 +2743,16 @@
       ]
     },
     {
-      "id": 0,
+      "id": 108269,
       "name": "Skirt Hilda",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -3974,25 +2763,16 @@
       ]
     },
     {
-      "id": 1,
+      "id": 374442,
       "name": "Skirt Odette",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4003,25 +2783,16 @@
       ]
     },
     {
-      "id": 2,
+      "id": 329362,
       "name": "Skirt Loli-Checked",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4032,25 +2803,16 @@
       ]
     },
     {
-      "id": 3,
+      "id": 486426,
       "name": "Skirt Loli-Đen",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 250000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4061,25 +2823,16 @@
       ]
     },
     {
-      "id": 4,
+      "id": 434977,
       "name": "Skirt Mini Odette",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 220000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4090,25 +2843,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": 690967,
       "name": "Chân váy xòe xếp ly",
       "type": "skirt",
       "category": "women",
       "status": "bestseller",
       "price": 149000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4129,25 +2873,16 @@
       ]
     },
     {
-      "id": 6,
+      "id": 229265,
       "name": "Chân váy xòe",
       "type": "skirt",
       "category": "women",
       "status": "favourite",
       "price": 70000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4158,25 +2893,16 @@
       ]
     },
     {
-      "id": 7,
+      "id": 175930,
       "name": "Chân váy xòe-Chân váy ngắn xếp ly",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 305000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4187,25 +2913,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": 213758,
       "name": "Chân váy thô kaki chỉ nổi Hàn Quốc",
       "type": "skirt",
       "category": "women",
       "status": "sale",
       "price": 237000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4221,25 +2938,16 @@
       ]
     },
     {
-      "id": 9,
+      "id": 991104,
       "name": "Chân váy chữ A 6 nút",
       "type": "skirt",
       "category": "women",
       "status": "",
       "price": 255000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4250,29 +2958,17 @@
       ]
     },
     {
-      "id": 0,
+      "id": 468621,
       "name": "Quần ống rộng suông nữ cao khóa trước 1 khuy vải tuyết mưa",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 79000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4293,29 +2989,17 @@
       ]
     },
     {
-      "id": 1,
+      "id": 125451,
       "name": "Quần jean nữ ống rộng đen xám phong cách Ulzzang School",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 198000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4331,18 +3015,13 @@
       ]
     },
     {
-      "id": 2,
+      "id": 571593,
       "name": "Quần bom mặt cười tròn ",
       "type": "trousers",
       "category": "women",
       "status": "sale",
       "price": 50000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Freesize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Freesize" }],
       "main": [
         {
           "id": 0,
@@ -4362,29 +3041,17 @@
       ]
     },
     {
-      "id": 3,
+      "id": 427534,
       "name": "Quần Jeans nữ dài lưng cao dáng rộng cá tính",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 228000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4400,29 +3067,17 @@
       ]
     },
     {
-      "id": 4,
+      "id": 361064,
       "name": "Quần Jean dài nhỏ xẻ tà phong cách đường phố",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 237000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4438,25 +3093,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": 823840,
       "name": "Quần dài túi hộp ống rộng kaki contton JULY 8 túi cạp cao",
       "type": "trousers",
       "category": "women",
       "status": "bestseller",
       "price": 229000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4477,29 +3123,17 @@
       ]
     },
     {
-      "id": 6,
+      "id": 948768,
       "name": "Quần jean ống suông rách phong cách Hàn Quốc",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 200000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4510,29 +3144,17 @@
       ]
     },
     {
-      "id": 7,
+      "id": 214807,
       "name": "Quần thể thao nữ NRVP ống rộng phong cách đường phố Hàn Quốc",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 178000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -4548,25 +3170,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": 670790,
       "name": "Quần đũi ống rộng dáng dài UNDERCOOL ống suông dáng dài chất đũi trẻ trung",
       "type": "trousers",
       "category": "women",
       "status": "favourite",
       "price": 99000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4587,25 +3200,16 @@
       ]
     },
     {
-      "id": 9,
+      "id": 580474,
       "name": "Quần nhung tăm",
       "type": "trousers",
       "category": "women",
       "status": "",
       "price": 75000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4621,29 +3225,17 @@
       ]
     },
     {
-      "id": 0,
+      "id": 664291,
       "name": "Quần short nhung tăm cho nữ đẹp hách dáng",
       "type": "short",
       "category": "women",
       "status": "sale",
       "price": 55000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4669,29 +3261,17 @@
       ]
     },
     {
-      "id": 1,
+      "id": 143795,
       "name": "Quần short cạp cao ống rộng dáng lửng Ulzang",
       "type": "short",
       "category": "women",
       "status": "",
       "price": 68000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4712,33 +3292,18 @@
       ]
     },
     {
-      "id": 2,
+      "id": 452719,
       "name": "Quần short nữ dáng lửng ",
       "type": "short",
       "category": "women",
       "status": "",
       "price": 59000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        },
-        {
-          "id": 4,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" },
+        { "id": 4, "title": "XXL" }
       ],
       "main": [
         {
@@ -4759,29 +3324,17 @@
       ]
     },
     {
-      "id": 3,
+      "id": 962925,
       "name": "Quần short thể thao lưng cao ống rộng dây rút phong cách Hàn Quốc",
       "type": "short",
       "category": "women",
       "status": "",
       "price": 77000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4807,29 +3360,17 @@
       ]
     },
     {
-      "id": 4,
+      "id": 873024,
       "name": "Quần short Denim dáng chữ A phong cách Hàn Quốc ",
       "type": "short",
       "category": "women",
       "status": "",
       "price": 168000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        },
-        {
-          "id": 3,
-          "title": "XL"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" },
+        { "id": 3, "title": "XL" }
       ],
       "main": [
         {
@@ -4840,25 +3381,16 @@
       ]
     },
     {
-      "id": 5,
+      "id": 164544,
       "name": "Quần short giả váy chữ A lưng cao ống rộng",
       "type": "short",
       "category": "women",
       "status": "favourite",
       "price": 94000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4869,18 +3401,13 @@
       ]
     },
     {
-      "id": 6,
+      "id": 999519,
       "name": "Quần short dạ nữ",
       "type": "short",
       "category": "women",
       "status": "sale",
       "price": 200000,
-      "size": [
-        {
-          "id": 0,
-          "title": "Freesize"
-        }
-      ],
+      "size": [{ "id": 0, "title": "Freesize" }],
       "main": [
         {
           "id": 0,
@@ -4900,29 +3427,17 @@
       ]
     },
     {
-      "id": 7,
+      "id": 866497,
       "name": "Quần short da Pu màu đen lưng cao tôn dáng",
       "type": "short",
       "category": "women",
       "status": "favourite",
       "price": 238000,
       "size": [
-        {
-          "id": 0,
-          "title": "M"
-        },
-        {
-          "id": 1,
-          "title": "L"
-        },
-        {
-          "id": 2,
-          "title": "XL"
-        },
-        {
-          "id": 3,
-          "title": "XXL"
-        }
+        { "id": 0, "title": "M" },
+        { "id": 1, "title": "L" },
+        { "id": 2, "title": "XL" },
+        { "id": 3, "title": "XXL" }
       ],
       "main": [
         {
@@ -4933,25 +3448,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": 669469,
       "name": "Quần short Denim lưng cao ống rộng",
       "type": "short",
       "category": "women",
       "status": "bestseller",
       "price": 200000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
@@ -4972,25 +3478,16 @@
       ]
     },
     {
-      "id": 9,
+      "id": 168203,
       "name": "Quần short Denim lưng cao ống rộng",
       "type": "short",
       "category": "women",
       "status": "bestseller",
       "price": 75000,
       "size": [
-        {
-          "id": 0,
-          "title": "S"
-        },
-        {
-          "id": 1,
-          "title": "M"
-        },
-        {
-          "id": 2,
-          "title": "L"
-        }
+        { "id": 0, "title": "S" },
+        { "id": 1, "title": "M" },
+        { "id": 2, "title": "L" }
       ],
       "main": [
         {
